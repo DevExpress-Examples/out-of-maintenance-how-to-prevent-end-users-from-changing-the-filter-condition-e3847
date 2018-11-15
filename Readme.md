@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DXPivotGrid_CancelFilterChanging/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DXPivotGrid_CancelFilterChanging/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/DXPivotGrid_CancelFilterChanging/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXPivotGrid_CancelFilterChanging/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to prevent end-users from changing the filter condition
 
 
